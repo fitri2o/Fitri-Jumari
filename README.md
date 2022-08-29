@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fitri2o
+- 👋 Hi, I’m @Fitri Jumari
 - 👀 I’m interested in Front End web programming and AR
 - 🌱 I’m currently learning HTML, CSS, Javascript, C#
 - 💞️ I’m looking to collaborate on 
